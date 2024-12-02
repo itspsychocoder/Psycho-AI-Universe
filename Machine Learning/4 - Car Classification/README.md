@@ -1,11 +1,12 @@
 # Car Classifiction
-This project implements a Convolutional Neural Network (CNN) to classify images of cars into different categories based on the car brand (e.g., Audi, Rolls Royce). The model is built using TensorFlow and Keras, and it leverages transfer learning for better accuracy.
+This project implements a Convolutional Neural Network (CNN) to classify images of cars into different categories based on the car brand (e.g., Audi, Rolls Royce). The model is built using TensorFlow and Keras.
 
 ## Dataset
 The dataset consists of two folders:
 
 - train/: Contains subfolders for each car type with images of the respective cars.
 - test/: Contains subfolders with test images of the respective car types for evaluation.
+
 Each subfolder in both the train/ and test/ directories corresponds to a car brand (e.g., Audi, Rolls Royce) and contains images of that brand.
 
 
